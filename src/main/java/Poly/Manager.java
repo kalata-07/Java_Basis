@@ -1,2 +1,6 @@
-package Poly;public interface Manager {
+package Poly;
+
+public interface Manager {
+    void feelInPresentSheets();
+
 }

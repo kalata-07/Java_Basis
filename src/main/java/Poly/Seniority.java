@@ -1,2 +1,6 @@
-package Poly;public interface Seniority {
+package Poly;
+
+public interface Seniority {
+    void supportSomeone();
+    String giveFeedback();
 }

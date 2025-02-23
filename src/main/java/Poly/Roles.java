@@ -1,2 +1,5 @@
-package Poly;public enum Roles {
+package Poly;
+
+public enum Roles {
+    Accountant, Developer, Office_Manager
 }

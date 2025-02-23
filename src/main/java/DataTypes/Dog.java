@@ -11,7 +11,7 @@ public final static String TAIL="short";
         }
 
         public void setBreed(String breed) {
-                this.breed = breed;
+                Dog.breed = breed;
         }
 
         public String getName() {
